@@ -5,10 +5,11 @@ const path = require('path');
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
-   Version: *${settings.version || '2.0.5'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
-   YT : ${global.ytch}
+   *🤖 ${settings.botName || 'Nezuko-🪻'}*  
+  by ${settings.botOwner || 'TIKU✨🌷 '}
+
+ created with love by ᴍʏꜱᴛɪᴄ 𝙏𝙄𝙆𝙐  🎀🌷
+ .✬↬ +917086810603
 ╚═══════════════════╝
 
 *Available Commands:*
@@ -151,12 +152,11 @@ async function helpCommand(sock, chatId, message) {
 💻 *Github Commands:*
 ║ ➤ .git
 ║ ➤ .github
-║ ➤ .sc
 ║ ➤ .script
 ║ ➤ .repo
 ╚═══════════════════╝
 
-Join our channel for updates:`;
+sayonara 🫶🏻:`;
 
     try {
         const imagePath = path.join(__dirname, '../assets/bot_image.jpg');
