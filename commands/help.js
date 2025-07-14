@@ -9,6 +9,7 @@ async function helpCommand(sock, chatId, message) {
   by ${settings.botOwner || 'TIKU✨🌷 '}
 
  created with love by ᴍʏꜱᴛɪᴄ 𝙏𝙄𝙆𝙐  🎀🌷
+ .✬↬ +917086726371
  .✬↬ +917086810603
 ╚═══════════════════╝
 
