@@ -15,9 +15,9 @@ async function helpCommand(sock, chatId, message) {
 
 *Available Commands:*
 
-╔═══════════════════╗
+
 🌐 *General Commands*:
-║ ➤ .help or .menu
+║ ➤ help or .menu
 ║ ➤ .ping
 ║ ➤ .alive
 ║ ➤ .tts <text>
